@@ -12,7 +12,7 @@ Developer DAO is a developer owned and governed community.
 
 ## About Developer DAO
 
-Developer DAO is a community. A community of builders who share the same mission, values & goals and collectively Govern shared resources in a Treasury to support other Members contributing to realising that mission.
+Developer DAO is a community of builders who share the same mission, values & goals. We collectively govern shared resources in a [treasury](https://boardroom.io/devdao/treasuryOverview) to support and enable our mission.
 
 Developer DAO was founded by [Nader Dabit](https://twitter.com/dabit3) on 3rd September 2021 during a [YouTube Live Stream](https://www.youtube.com/watch?v=NcOQG4Cpbdk&t=5s). The DAO was an experiment, created by forking the [Loot Project](https://www.lootproject.com/) and changing the metadata from in-game loot items to traits a Developer DAO might hold.
 
@@ -30,8 +30,6 @@ We've broken this mission down into 4 pillars: Vibe, Learn, Build & Govern:
 
 3. 🏗️ **Build**: Hackathons, Agency Work, Fellowship programs, Jobs.
 
-4. 👩🏽‍⚖️ **Govern**: Propose, debate and vote on ideas and budget allocations.
+4. 👩🏽‍⚖️ **Govern**: Propose, debate, vote on ideas and budget allocations.
 
-The vast majority of the value the DAO creates is provided as public goods. That means, Members and non-members are like have equal access and one persons use doesn't impact anothers.
-
-something something link to how to get involved.
+The vast majority of the value the DAO creates is provided as public goods. This means that the value is available to everyone, regardless of whether they are a member or not. For example, a workshop is a public good.
